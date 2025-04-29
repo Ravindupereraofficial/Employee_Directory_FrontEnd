@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <footer class="footer">
       <div class="footer-container">
-        <p>&copy; 2025 Fortium Partners Employee Management System</p>
+        <p>&copy; 2025 Employee Management System</p>
       </div>
     </footer>
   `,

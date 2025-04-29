@@ -9,7 +9,7 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
     <header class="header">
       <div class="header-container">
         <div class="logo">
-          <h1>Fortium Partners Employee Management</h1>
+          <h1>Employee Management</h1>
         </div>
         <nav class="nav">
           <ul class="nav-list">
